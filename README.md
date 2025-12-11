@@ -6,7 +6,7 @@ Sản phẩm cốt lõi của công ty là một hệ thống CRM toàn diện d
 ## 📸 Demo / Giao diện
 
 
-<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/3609aee2-7313-4a1e-883d-37f26311aa16" />
+
 <img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/8bceca06-f060-45bf-93bb-92f2dded5a9e" />
 <img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/0eee3bd0-20c9-4c2f-b061-298cd332840b" />
 <img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/1fc8d48a-d3e6-4e5b-a97c-ab2d329cb8e5" />
